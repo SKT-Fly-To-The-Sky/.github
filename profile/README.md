@@ -16,7 +16,8 @@
   - [2️⃣ 기술 스택](#2️⃣-기술-스택)
   - [3️⃣ 어플](#3️⃣-어플)
   - [4️⃣ AI 모델](#4%EF%B8%8F%E2%83%A3-ai-%EB%AA%A8%EB%8D%B8)
-  - [5️⃣ ERD](#5️⃣-프로젝트-산출물)
+  - [5️⃣ 음식 & 영양제 추천 서비스](#5%EF%B8%8F⃣-음식--영양제-추천-서비스)
+  - [6️⃣ 프로젝트 산출물](#6️⃣-프로젝트-산출물)
 
 
   <br/>
@@ -112,13 +113,16 @@
 
 
 
-#### 영양제 Tracking 서비스
+### 5️⃣ 음식 & 영양제 추천 서비스
+
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/80855939/230865702-e624e553-3282-4c67-916b-6cb005790de7.png">
+<img width="663" alt="image" src="https://user-images.githubusercontent.com/80855939/230865746-3fec0c65-33d0-4057-aea0-15d5962bf1a8.png">
 
 
 
 
 
-### 5️⃣ 프로젝트 산출물
+###  6️⃣ 프로젝트 산출물
 
 1. [ERD](https://github.com/SKT-Fly-To-The-Sky/Backend/blob/master/erd_%EA%B1%B4%EA%B0%95%ED%95%98%EB%8B%B7.png)
 
