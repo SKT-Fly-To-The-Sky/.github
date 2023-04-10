@@ -115,7 +115,7 @@
 
 ### 5️⃣ 음식 & 영양제 추천 서비스
 
-<img width="671" alt="image" src="https://user-images.githubusercontent.com/80855939/230865702-e624e553-3282-4c67-916b-6cb005790de7.png">
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/80855939/230866324-0a4dcc0d-422d-488c-a20c-c8fcc0a8fd2c.png">
 <img width="663" alt="image" src="https://user-images.githubusercontent.com/80855939/230865746-3fec0c65-33d0-4057-aea0-15d5962bf1a8.png">
 
 
