@@ -124,9 +124,9 @@
 
 ### 5️⃣ 프로젝트 산출물
 
-1. [ERD](./DB.md)
+1. [ERD](https://github.com/SKT-Fly-To-The-Sky/Backend/blob/master/erd_%EA%B1%B4%EA%B0%95%ED%95%98%EB%8B%B7.png)
 
-2. 프로젝트 최종 발표 자
+2. [프로젝트 최종 발표 자료](https://github.com/SKT-Fly-To-The-Sky/.github/blob/main/%5B%EC%B2%A8%EB%B6%802%5D%EA%B1%B4%EA%B0%95%ED%95%98%EB%8B%B7%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 
 
