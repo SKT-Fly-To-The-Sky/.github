@@ -10,7 +10,6 @@
 
 - [프로젝트 목차](#프로젝트-목차)
 - [팀 소개](#팀-소개)
-- [팀 이름](#팀-이름)
 - [팀원 소개](#팀원-소개)
 - [프로젝트 소개](#프로젝트-소개)
   - [1️⃣ 주제](#1️⃣-주제)
@@ -26,7 +25,6 @@
 
 ## **팀 소개**
 
-### - 팀 이름
 
 <b>일상의 디지털 메이트 에이닷, 
 일상의 건강 메이트 건강하닷</b>
@@ -73,9 +71,7 @@
 
 ### 2️⃣ 기술 스택
 
-<br>
-<img src ="./pic/architecture.jpg" alt="아키텍쳐" width="60%">
-<br>
+
 
 - `FrontEnd` :<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
