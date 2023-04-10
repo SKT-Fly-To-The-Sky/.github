@@ -1,6 +1,5 @@
 ## 영양 관리 솔루션 건강하닷
 
-## 작업중@@@@@@-
 
 <img width="668" alt="image" src="https://user-images.githubusercontent.com/80855939/223020176-9a0fb017-cbbb-48bb-8129-2741de30414d.png">
 
@@ -15,11 +14,11 @@
 - [팀원 소개](#팀원-소개)
 - [프로젝트 소개](#프로젝트-소개)
   - [1️⃣ 주제](#1️⃣-주제)
-  - [2️⃣ 프로젝트 규칙](#2️⃣-프로젝트-규칙)
-  - [3️⃣ 기술 스택](#3️⃣-기술-스택)
-  - [4️⃣ AI 모델](#4️⃣-AI-모델)
-  - [5️⃣ ](#5️⃣-프로젝트-산출물)
-  - [6️⃣ ](#6️⃣-프로젝트-제출물)
+  - [2️⃣ 기술 스택](#2️⃣-기술-스택)
+  - [3️⃣ 어플](#3️⃣-어플)
+  - [4️⃣ AI 모델](#4%EF%B8%8F%E2%83%A3-ai-%EB%AA%A8%EB%8D%B8)
+  - [5️⃣ ERD](#5️⃣-프로젝트-산출물)
+
 
   <br/>
 
@@ -36,14 +35,14 @@
 
 
 
-| 이름   | 직책 | 역할     | 담당                           |
-| ------ | ---- | -------- | ------------------------------ |
-| 강정훈 | 팀장 | PM,AI |                             |
-| 강두원 | 팀원 | Backend |                                |
-| 구미진 | 팀원 | Frontend  |  |
-| 이슬아 | 팀원 | Frontend |                               |
-| 이정수 | 팀원 | AI  |  |
-| 박상민 | 팀원 | AI  |     |
+| 이름   | 직책 | 역할     |
+| ------ | ---- | -------- | 
+| 강정훈 | 팀장 | PM,AI |                             
+| 강두원 | 팀원 | Backend |                                
+| 구미진 | 팀원 | Frontend  |  
+| 이슬아 | 팀원 | Frontend |                              
+| 이정수 | 팀원 | AI  | 
+| 박상민 | 팀원 | AI  | 
 
 <br/>
 
@@ -89,26 +88,30 @@
 - `Communication Tool` : <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 
-### 3️⃣  어플
+### 3️⃣ 어플
 
 <img src = "https://user-images.githubusercontent.com/80855939/223034919-3bbdceea-c453-4585-8722-84a8c89087be.png" width="70%" height="70%"> 
 
 ### 4️⃣ AI 모델
 
-### 1. 음식 영양 Tracking 서비스
-<img src = "https://user-images.githubusercontent.com/80855939/223032386-1898b98d-8cfb-42b4-bce6-a84972e5be13.png" width="70%" height="70%">
 
-### (1) Food Classification: Yolo V5
+  #### 1. 음식 영양 Tracking 서비스
+  <img src = "https://user-images.githubusercontent.com/80855939/223032386-1898b98d-8cfb-42b4-bce6-a84972e5be13.png" width="70%" height="70%">
 
-<img src = "https://user-images.githubusercontent.com/80855939/223033205-2275007f-e937-4c6a-a646-16c2a4362a57.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/80855939/223033288-b5f772ae-3edc-404f-9bb4-8740b4927f31.png" width="30%" height="20%">
+  #### (1) Food Classification: Yolo V5
+
+  <img src = "https://user-images.githubusercontent.com/80855939/223033205-2275007f-e937-4c6a-a646-16c2a4362a57.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/80855939/223033288-b5f772ae-3edc-404f-9bb4-8740b4927f31.png" width="30%" height="20%">
 
 
-### (2) Food Quantity Estimation :Unsupervised Monocular Depth Prediction
-<img src = "https://user-images.githubusercontent.com/80855939/223034377-691f3034-739f-4849-b133-0121c7704cd4.png" width="30%" height="30%">
+  #### (2) Food Quantity Estimation :Unsupervised Monocular Depth Prediction
+  
+ - 참고한 논문: ["Digging Into Self-Supervised Monocular Depth Estimation"](https://arxiv.org/pdf/1806.01260.pdf)
+  
+  <img src = "https://user-images.githubusercontent.com/80855939/223034377-691f3034-739f-4849-b133-0121c7704cd4.png" width="30%" height="30%">
 
-<img src = "https://user-images.githubusercontent.com/80855939/223032592-5ee40745-8a2d-4d90-8dc9-97b07deee1f7.png" width="70%" height="70%">
+  <img src = "https://user-images.githubusercontent.com/80855939/223032592-5ee40745-8a2d-4d90-8dc9-97b07deee1f7.png" width="70%" height="70%">
 
-<img src = "https://user-images.githubusercontent.com/80855939/223034442-500fee1b-43bd-4460-a816-771e442a8aba.png" width="70%" height="70%">
+  <img src = "https://user-images.githubusercontent.com/80855939/223034442-500fee1b-43bd-4460-a816-771e442a8aba.png" width="70%" height="70%">
 
 
 
@@ -119,15 +122,11 @@
 
 
 
-- [음식 분류 모델 적용 방법](./flask/README.md)
-
 ### 5️⃣ 프로젝트 산출물
 
 1. [ERD](./DB.md)
 
-2. [어플]
-
-### 6️⃣ 프로젝트 제출물
+2. 프로젝트 최종 발표 자
 
 
 
